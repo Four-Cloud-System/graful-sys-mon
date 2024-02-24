@@ -1,0 +1,14 @@
+
+[Unit]
+Description=Alert Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /mnt/d/01_Work/03_Software_Work/02_Vs_Code/05_Office_Project/system_alert_service.py
+WorkingDirectory=/mnt/d/01_Work/03_Software_Work/02_Vs_Code/05_Office_Project
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,7 @@
+2024-02-21 18:34:51: High CPU Usage Alert: CPU usage exceeded threshold: 33.3% on server boom_sakib (127.0.1.1)
+2024-02-21 18:35:13: High CPU Usage Alert: CPU usage exceeded threshold: 33.3% on server boom_sakib (127.0.1.1)
+2024-02-21 18:47:58: High CPU Usage Alert: CPU usage exceeded threshold: 34.0% on server boom_sakib (127.0.1.1)
+2024-02-21 19:00:08: High CPU Usage Alert: CPU usage exceeded threshold: 33.7% on server boom_sakib (127.0.1.1)
+2024-02-21 19:02:25: High CPU Usage Alert: CPU usage exceeded threshold: 34.3% on server boom_sakib (127.0.1.1)
+2024-02-21 19:02:47: High CPU Usage Alert: CPU usage exceeded threshold: 34.7% on server boom_sakib (127.0.1.1)
+2024-02-21 19:03:51: Container Stopped Alert: The following Docker containers have stopped: centos3 on server boom_sakib (127.0.1.1)
