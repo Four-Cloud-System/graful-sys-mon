@@ -1,0 +1,19 @@
+# Telegram Bot Info
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+
+# Path to store CSV file
+CSV_FILE=./system_metrics.csv
+LOG_FILE=./system_metrics_logs.txt
+
+# Thresholds for CPU, memory, and disk usage
+CPU_THRESHOLD=40
+MEMORY_THRESHOLD=40
+DISK_THRESHOLD=40
+# Server name
+SERVER_NAME='test'
+
+
+
+
+
